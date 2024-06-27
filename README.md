@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kowoya
+- 👋 Hi, I’m @Kowoya/Mariia
 - 👀 I’m interested in reading.
 - 🌱 I’m currently learning HTML,CSS,JavaScript
 - 💞️ I’m looking to collaborate on ...
